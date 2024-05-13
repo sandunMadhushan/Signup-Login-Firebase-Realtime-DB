@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280929986215",
+    "project_id": "signuplogin-firebaserealtimedb",
+    "storage_bucket": "signuplogin-firebaserealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280929986215:android:1fd7fa8bac50862be21d82",
+        "android_client_info": {
+          "package_name": "com.s22010304.signuplogin_firebaserealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdc5PCCramqWZCpoV_a7qqnOr0LA2Yh2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
